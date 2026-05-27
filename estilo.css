@@ -1,0 +1,49 @@
+body {
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+}
+#cabecalho {
+    border: 2px solid purple;
+    background: #EA5D01;
+    padding: 30px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+}
+#engenharia {
+    border: 2px solid lightblue;
+    margin: 50px auto;
+    width: 500px;
+    text-align: justify;
+}
+#planejamento {
+    border: 2px solid red;
+    margin: 50px 300px;
+}
+p {
+    
+}
+#pilares {
+    border: 2px solid darkgray;
+    display: flex;
+    gap: 20px;
+}
+.card {
+    border: 2px solid green;
+    padding: 20px;
+}
+h3 {
+    margin: 0;
+    padding: 0;
+}
+#rodape {
+    padding: 50px;
+    text-align: center;
+    height: 70px;
+    border: 2px solid darkgreen;
+    background: darkgray;
+}
